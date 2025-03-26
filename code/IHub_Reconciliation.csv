@@ -1,0 +1,35 @@
+AsOfDate_file1,Company_file1,Account,AU_file1,Currency_file1,PrimaryAccount,SecondaryAccount,GLBalance_file1,iHUbBalance_file1,BalanceDifference_file1,MatchStatus_file1,comments,Anomaly
+2023-01-24,5,6723224,2278,ALL,Principal,Principal,86769,70310,16459,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-06,2,2249280,1682,AFN,Principal,Deferred Costs,56502,108972,-52470,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-30,2,3574754,5435,EUR,Deferred Costs,Principal,75865,101529,-25664,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-04,6,1621625,5102,USD,Deferred Costs,Deferred Costs,65794,51901,13893,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-10,1,2665124,2467,EUR,Deferred Costs,Principal,90703,100729,-10026,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-15,4,7584036,1318,ALL,Deferred Costs,Deferred Costs,74365,87009,-12644,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-02,4,8733748,4482,INR,Principal,Deferred Costs,80094,116297,-36203,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-20,4,1906599,3316,ISO-4217,Deferred Costs,Deferred Costs,94322,48879,45443,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-13,1,5205589,6398,USD,Deferred Costs,Deferred Costs,102429,77261,25168,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-12,2,3336259,4257,EUR,Principal,Principal,83273,37563,45710,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-15,6,7114597,5323,ISO-4217,Deferred Costs,Principal,75450,102952,-27502,Break,Consistently Match,No
+2023-01-04,5,1693471,3265,ALL,Principal,Principal,31768,48796,-17028,Break,Very Minor Difference,No
+2023-01-06,6,5136186,3535,EUR,Principal,Deferred Costs,112222,86588,25634,Break,Consistently Match,No
+2023-01-15,1,8359876,3134,EUR,Deferred Costs,Principal,98557,33295,65262,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-23,3,1196792,6539,ALL,Deferred Costs,Deferred Costs,99317,70752,28565,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-19,6,7456384,3037,ISO-4217,Deferred Costs,Principal,108656,66694,41962,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-19,1,7219664,3114,ISO-4217,Principal,Principal,107253,45602,61651,Break,Very Minor Difference,No
+2023-01-25,4,2517661,6629,ALL,Deferred Costs,Principal,93494,62597,30897,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-23,3,4356691,4567,INR,Principal,Principal,74808,73137,1671,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-27,3,1488723,2076,ALL,Principal,Principal,95998,87940,8058,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-05,4,2028229,2143,AFN,Principal,Principal,65356,32828,32528,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-05,1,3725845,5858,ISO-4217,Principal,Principal,109745,54592,55153,Break,Consistently Match,No
+2023-01-10,4,9745931,5176,USD,Deferred Costs,Deferred Costs,64778,85885,-21107,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-17,5,8062582,6218,ISO-4217,Deferred Costs,Deferred Costs,71739,82279,-10540,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-29,3,9056425,6177,ALL,Deferred Costs,Deferred Costs,59329,35831,23498,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-27,4,9155118,3599,USD,Deferred Costs,Principal,47718,96397,-48679,Break,Consistently Match,No
+2023-01-17,2,2130513,3786,ALL,Principal,Deferred Costs,115732,98154,17578,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-19,6,9592741,2574,USD,Deferred Costs,Principal,113698,32991,80707,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-04,4,3408402,4828,INR,Deferred Costs,Principal,107766,99599,8167,Break,Consistently Match,No
+2023-01-26,5,3822018,2831,ISO-4217,Deferred Costs,Principal,104242,89720,14522,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-17,2,7581862,5829,USD,Principal,Deferred Costs,42689,69547,-26858,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-11,6,4180750,6116,ALL,Deferred Costs,Deferred Costs,55032,36700,18332,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-24,6,4618350,3599,AFN,Deferred Costs,Deferred Costs,104597,71152,33445,Break,Consistent increase or decrease in outstanding balance,No
+2023-01-13,1,8409107,1467,AFN,Principal,Principal,97252,43064,54188,Break,Consistent increase or decrease in outstanding balance,No
